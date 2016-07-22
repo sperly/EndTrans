@@ -1,0 +1,16 @@
+[
+{
+  "modid": "endtrans",
+  "name": "Ender Transference",
+  "description": "A transport mod based on ender pearls.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/sperly/EndTrans/wiki",
+  "updateUrl": "",
+  "authorList": ["sperly"],
+  "credits": "Thanks to the Forge team for making this possible, to Pahimar for introducing modding (I hope you get time to roboot/finish your awesome tutorial suite) and for Direwolf20 for introducing so many awesome mods. And my final acknowledgement goes to a fellow Swede: Markus Persson aka Notch for making Minecraft! Tusen tack Markus!!! ",
+  "logoFile": "Logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
